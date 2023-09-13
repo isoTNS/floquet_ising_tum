@@ -1,0 +1,6 @@
+spd
+wilhelm
+__pycache__
+*.npy
+*.npz
+*.out
